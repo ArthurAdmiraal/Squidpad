@@ -1,0 +1,1397 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Sysdesigndoc.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="464.26887"
+     inkscape:cy="391.72196"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="805"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-center="true"
+     inkscape:snap-grids="true"
+     inkscape:object-nodes="false"
+     inkscape:object-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3004"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       units="cm"
+       spacingx="0.125cm"
+       spacingy="0.125cm" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Laag 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#f0b4b4;stroke:#802828;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       d="M 504.92126,334.8425 792.81496,334.8425 792.81496,892.91336 407.48031,892.91336 407.48031,715.74801 504.92126,715.74801 C 504.92126,588.77951 504.92126,461.811 504.92126,334.8425 z"
+       id="path5193"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:#b4b4f0;fill-opacity:1;stroke:#282880;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 26.574803,334.8425 26.574803,706.88974 496.06299,706.88974 496.06299,334.8425 z"
+       id="path4851"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:20"
+       id="path3006"
+       sodipodi:cx="70.866142"
+       sodipodi:cy="627.16534"
+       sodipodi:rx="35.433071"
+       sodipodi:ry="35.433071"
+       d="M 106.29921,627.16534 A 35.433071,35.433071 0 1 1 35.433071,627.16534 35.433071,35.433071 0 1 1 106.29921,627.16534 z"
+       transform="translate(-5.4066575e-7,-177.16537)"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       transform="translate(-5.4066575e-7,-70.866153)"
+       d="M 106.29921,627.16534 A 35.433071,35.433071 0 1 1 35.433071,627.16534 35.433071,35.433071 0 1 1 106.29921,627.16534 z"
+       sodipodi:ry="35.433071"
+       sodipodi:rx="35.433071"
+       sodipodi:cy="627.16534"
+       sodipodi:cx="70.866142"
+       id="path3776"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:20"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:20"
+       id="path3778"
+       sodipodi:cx="70.866142"
+       sodipodi:cy="627.16534"
+       sodipodi:rx="35.433071"
+       sodipodi:ry="35.433071"
+       d="M 106.29921,627.16534 A 35.433071,35.433071 0 1 1 35.433071,627.16534 35.433071,35.433071 0 1 1 106.29921,627.16534 z"
+       transform="translate(-5.4066575e-7,35.433059)"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 106.29921,449.99998 141.73228,449.99998"
+       id="path3780"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 106.29921,556.29919 141.73228,556.29919"
+       id="path3782"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 141.73228,662.5984 106.29921,662.5984"
+       id="path3784"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 141.73228,698.03147 141.73228,627.16533 212.59843,662.5984 z"
+       id="path3786"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 141.73228,591.73226 141.73228,520.86612 212.59843,556.29919 z"
+       id="path3788"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 141.73228,485.43305 141.73228,414.56691 212.59843,449.99998 z"
+       id="path3790"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <g
+       id="g4667"
+       transform="matrix(0.72727261,0,0,0.72727261,-225.48313,84.07307)"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679">
+      <g
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="g4659">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:20"
+           d="M 389.76378,498.72044 389.76378,503.14957 389.76378,503.14957 C 389.76378,512.93415 397.69575,520.86612 407.48032,520.86612 417.2649,520.86612 425.19689,512.93415 425.19687,503.14957 L 425.19686,498.72044"
+           id="path4650"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccssc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="M 407.48031,520.86612 407.48031,529.72439"
+           id="path4657"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4663"
+         d="M 394.19291,529.72439 420.76772,529.72439"
+         style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4665"
+         d="M 407.48031,503.14958 407.48031,481.00391"
+         style="fill:none;stroke:#000000;stroke-width:23;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       transform="matrix(0.72727261,0,0,0.72727261,-225.48313,190.37228)"
+       id="g4674"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679">
+      <g
+         id="g4676"
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none">
+        <path
+           sodipodi:nodetypes="cccssc"
+           inkscape:connector-curvature="0"
+           id="path4678"
+           d="M 389.76378,498.72044 389.76378,503.14957 389.76378,503.14957 C 389.76378,512.93415 397.69575,520.86612 407.48032,520.86612 417.2649,520.86612 425.19689,512.93415 425.19687,503.14957 L 425.19686,498.72044"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:20" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4680"
+           d="M 407.48031,520.86612 407.48031,529.72439"
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="M 394.19291,529.72439 420.76772,529.72439"
+         id="path4682"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:23;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="M 407.48031,503.14958 407.48031,481.00391"
+         id="path4684"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g4686"
+       transform="matrix(0.72727261,0,0,0.72727261,-225.48313,296.67149)"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679">
+      <g
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="g4688">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:20"
+           d="M 389.76378,498.72044 389.76378,503.14957 389.76378,503.14957 C 389.76378,512.93415 397.69575,520.86612 407.48032,520.86612 417.2649,520.86612 425.19689,512.93415 425.19687,503.14957 L 425.19686,498.72044"
+           id="path4690"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccssc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="M 407.48031,520.86612 407.48031,529.72439"
+           id="path4692"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4694"
+         d="M 394.19291,529.72439 420.76772,529.72439"
+         style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4696"
+         d="M 407.48031,503.14958 407.48031,481.00391"
+         style="fill:none;stroke:#000000;stroke-width:23;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="167.18541"
+       y="456.66501"
+       id="text4698"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679"><tspan
+         sodipodi:role="line"
+         x="167.18541"
+         y="456.66501"
+         id="tspan4702"
+         style="font-size:20px;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93">×100</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4706"
+       y="562.96423"
+       x="167.18541"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679"><tspan
+         style="font-size:20px;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93"
+         id="tspan4708"
+         y="562.96423"
+         x="167.18541"
+         sodipodi:role="line">×100</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="167.18541"
+       y="669.26343"
+       id="text4710"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679"><tspan
+         sodipodi:role="line"
+         x="167.18541"
+         y="669.26343"
+         id="tspan4712"
+         style="font-size:20px;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93">×100</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 212.59843,449.99998 283.46457,449.99998"
+       id="path4714"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 212.59843,556.29919 283.46457,556.29919"
+       id="path4716"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 212.59843,662.5984 283.46457,662.5984"
+       id="path4718"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path4720"
+       sodipodi:cx="256.88977"
+       sodipodi:cy="476.57477"
+       sodipodi:rx="8.8582678"
+       sodipodi:ry="8.8582678"
+       d="M 265.74804,476.57477 A 8.8582678,8.8582678 0 1 1 248.0315,476.57477 8.8582678,8.8582678 0 1 1 265.74804,476.57477 z"
+       transform="translate(26.574794,-26.574793)"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       transform="translate(26.574794,-26.574793)"
+       d="M 265.74804,476.57477 A 8.8582678,8.8582678 0 1 1 248.0315,476.57477 8.8582678,8.8582678 0 1 1 265.74804,476.57477 z"
+       sodipodi:ry="8.8582678"
+       sodipodi:rx="8.8582678"
+       sodipodi:cy="476.57477"
+       sodipodi:cx="256.88977"
+       id="path4722"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path4724"
+       sodipodi:cx="256.88977"
+       sodipodi:cy="476.57477"
+       sodipodi:rx="8.8582678"
+       sodipodi:ry="8.8582678"
+       d="M 265.74804,476.57477 A 8.8582678,8.8582678 0 1 1 248.0315,476.57477 8.8582678,8.8582678 0 1 1 265.74804,476.57477 z"
+       transform="translate(26.574794,79.724419)"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       transform="translate(26.574794,186.02364)"
+       d="M 265.74804,476.57477 A 8.8582678,8.8582678 0 1 1 248.0315,476.57477 8.8582678,8.8582678 0 1 1 265.74804,476.57477 z"
+       sodipodi:ry="8.8582678"
+       sodipodi:rx="8.8582678"
+       sodipodi:cy="476.57477"
+       sodipodi:cx="256.88977"
+       id="path4726"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path4728"
+       sodipodi:cx="256.88977"
+       sodipodi:cy="476.57477"
+       sodipodi:rx="8.8582678"
+       sodipodi:ry="8.8582678"
+       d="M 265.74804,476.57477 A 8.8582678,8.8582678 0 1 1 248.0315,476.57477 8.8582678,8.8582678 0 1 1 265.74804,476.57477 z"
+       transform="translate(97.440936,132.87403)"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       transform="translate(97.440936,26.574813)"
+       d="M 265.74804,476.57477 A 8.8582678,8.8582678 0 1 1 248.0315,476.57477 8.8582678,8.8582678 0 1 1 265.74804,476.57477 z"
+       sodipodi:ry="8.8582678"
+       sodipodi:rx="8.8582678"
+       sodipodi:cy="476.57477"
+       sodipodi:cx="256.88977"
+       id="path4730"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 354.33071,503.14958 283.46457,458.85825"
+       id="path4732"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 354.33071,609.4488 283.46457,653.74014"
+       id="path4734"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 265.74803,449.99998 265.74803,414.56691 318.89764,414.56691"
+       id="path4736"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path4741"
+       sodipodi:cx="286.96429"
+       sodipodi:cy="453.61218"
+       sodipodi:rx="2.3214285"
+       sodipodi:ry="2.3214285"
+       d="M 289.28572,453.61218 A 2.3214285,2.3214285 0 1 1 284.64287,453.61218 2.3214285,2.3214285 0 1 1 289.28572,453.61218 z"
+       transform="translate(-21.216265,-3.6122058)"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 3;stroke-dashoffset:0"
+       d="M 318.89764,414.56691 318.89764,481.00391"
+       id="path4743"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 265.74803,662.5984 265.74803,698.03147 318.89764,698.03147"
+       id="path4745"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       transform="translate(-21.216265,208.98622)"
+       d="M 289.28572,453.61218 A 2.3214285,2.3214285 0 1 1 284.64287,453.61218 2.3214285,2.3214285 0 1 1 289.28572,453.61218 z"
+       sodipodi:ry="2.3214285"
+       sodipodi:rx="2.3214285"
+       sodipodi:cy="453.61218"
+       sodipodi:cx="286.96429"
+       id="path4747"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4749"
+       d="M 318.89764,631.59447 318.89764,698.03147"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 3;stroke-dashoffset:0"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 230.31496,662.5984 230.31496,361.4173 336.61417,361.4173"
+       id="path4751"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 248.0315,556.29919 248.0315,379.13384 336.61417,379.13384"
+       id="path4753"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 265.74803,414.56691 265.74803,396.85037 336.61417,396.85037"
+       id="path4755"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       transform="translate(-21.216263,-39.045276)"
+       d="M 289.28572,453.61218 A 2.3214285,2.3214285 0 1 1 284.64287,453.61218 2.3214285,2.3214285 0 1 1 289.28572,453.61218 z"
+       sodipodi:ry="2.3214285"
+       sodipodi:rx="2.3214285"
+       sodipodi:cy="453.61218"
+       sodipodi:cx="286.96429"
+       id="path4757"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path4759"
+       sodipodi:cx="286.96429"
+       sodipodi:cy="453.61218"
+       sodipodi:rx="2.3214285"
+       sodipodi:ry="2.3214285"
+       d="M 289.28572,453.61218 A 2.3214285,2.3214285 0 1 1 284.64287,453.61218 2.3214285,2.3214285 0 1 1 289.28572,453.61218 z"
+       transform="translate(-38.932798,102.68701)"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       transform="translate(-56.649334,208.98622)"
+       d="M 289.28572,453.61218 A 2.3214285,2.3214285 0 1 1 284.64287,453.61218 2.3214285,2.3214285 0 1 1 289.28572,453.61218 z"
+       sodipodi:ry="2.3214285"
+       sodipodi:rx="2.3214285"
+       sodipodi:cy="453.61218"
+       sodipodi:cx="286.96429"
+       id="path4761"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 336.61417,414.56691 336.61417,343.70077 372.04724,343.70077 372.04724,414.56691 z"
+       id="path4763"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4769"
+       y="385.79889"
+       x="354.0524"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679"><tspan
+         style="font-size:20px;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93"
+         id="tspan4771"
+         y="385.79889"
+         x="354.0524"
+         sodipodi:role="line">OR</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 354.33071,503.14958 407.48031,503.14958"
+       id="path4773"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 354.33071,609.4488 407.48031,609.4488"
+       id="path4775"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 372.04724,379.13384 389.76378,379.13384 389.76378,485.43305 407.48031,485.43305"
+       id="path4777"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 389.76378,485.43305 389.76378,591.73226 407.48031,591.73226"
+       id="path4779"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       transform="translate(102.79949,31.820866)"
+       d="M 289.28572,453.61218 A 2.3214285,2.3214285 0 1 1 284.64287,453.61218 2.3214285,2.3214285 0 1 1 289.28572,453.61218 z"
+       sodipodi:ry="2.3214285"
+       sodipodi:rx="2.3214285"
+       sodipodi:cy="453.61218"
+       sodipodi:cx="286.96429"
+       id="path4781"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 407.48031,520.86612 407.48031,467.71651 478.34646,467.71651 478.34646,520.86612 z"
+       id="path4783"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 407.48031,627.16533 407.48031,574.01573 478.34646,574.01573 478.34646,627.16533 z"
+       id="path4785"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="429.2186"
+       y="492.09808"
+       id="text4791"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679"><tspan
+         sodipodi:role="line"
+         x="429.2186"
+         y="492.09808"
+         style="font-size:20px;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93"
+         id="tspan4795">Start</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4799"
+       y="508.17886"
+       x="428.16391"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679"><tspan
+         id="tspan4801"
+         style="font-size:20px;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93"
+         y="508.17886"
+         x="428.16391"
+         sodipodi:role="line">Stop</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4805"
+       y="598.39728"
+       x="429.2186"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679"><tspan
+         id="tspan4807"
+         style="font-size:20px;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93"
+         y="598.39728"
+         x="429.2186"
+         sodipodi:role="line">Start</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="428.16391"
+       y="614.47809"
+       id="text4809"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679"><tspan
+         sodipodi:role="line"
+         x="428.16391"
+         y="614.47809"
+         style="font-size:20px;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93"
+         id="tspan4811">Stop</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4813"
+       y="465.02121"
+       x="442.84503"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679"><tspan
+         id="tspan4815"
+         style="font-size:20px;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93"
+         y="465.02121"
+         x="442.84503"
+         sodipodi:role="line">Timer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="442.84503"
+       y="571.32043"
+       id="text4817"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679"><tspan
+         sodipodi:role="line"
+         x="442.84503"
+         y="571.32043"
+         style="font-size:20px;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93"
+         id="tspan4819">Timer</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4821"
+       y="836.14478"
+       x="701.88586"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679"><tspan
+         id="tspan4823"
+         style="font-size:20px;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93"
+         y="836.14478"
+         x="701.88586"
+         sodipodi:role="line">Input protection</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 628.93701,839.76376 628.93701,822.04722 775.09843,822.04722 775.09843,839.76376 z"
+       id="path4825"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="451.64471"
+       y="835.24146"
+       id="text4832"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679"><tspan
+         sodipodi:role="line"
+         x="451.64471"
+         y="835.24146"
+         style="font-size:20px;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93"
+         id="tspan4834">Battery</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 416.33858,813.18895 487.20472,813.18895 487.20472,848.62203 416.33858,848.62203 z"
+       id="path4836"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#282880;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="28.574802"
+       y="327.98422"
+       id="text4853"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679"><tspan
+         sodipodi:role="line"
+         x="28.574802"
+         y="327.98422"
+         id="tspan4855"
+         style="font-size:20px;text-align:start;text-anchor:start;fill:#282880;fill-opacity:1;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93">Ultrasound delay measurement - Log 6</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 522.63779,529.72439 664.37009,529.72439 664.37009,671.45667 522.63779,671.45667 z"
+       id="path4857"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4859"
+       y="607.46552"
+       x="592.97174"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679"><tspan
+         id="tspan4861"
+         style="font-size:20px;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93"
+         y="607.46552"
+         x="592.97174"
+         sodipodi:role="line">microController</tspan></text>
+    <g
+       id="g4884"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4872"
+         d="M 487.20473,582.87399 513.77953,582.87399"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4874"
+         d="M 487.20472,618.5596 513.77953,618.30706"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4876"
+         d="M 509.35039,574.01573 522.6378,600.59053 509.35039,627.16533"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4889"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4878"
+         d="M 637.79528,816.14171 637.79528,677.36218"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4880"
+         d="M 655.51181,816.1417 655.51181,677.36219"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4882"
+         d="M 633.36614,680.31494 646.65354,671.45667 659.94094,680.31494"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 628.93701,830.90549 602.3622,830.90549"
+       id="path4894"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       transform="translate(310.03936,292.32285)"
+       d="M 265.74804,476.57477 A 8.8582678,8.8582678 0 1 1 248.0315,476.57477 8.8582678,8.8582678 0 1 1 265.74804,476.57477 z"
+       sodipodi:ry="8.8582678"
+       sodipodi:rx="8.8582678"
+       sodipodi:cy="476.57477"
+       sodipodi:cx="256.88977"
+       id="path4896"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path4898"
+       sodipodi:cx="256.88977"
+       sodipodi:cy="476.57477"
+       sodipodi:rx="8.8582678"
+       sodipodi:ry="8.8582678"
+       d="M 265.74804,476.57477 A 8.8582678,8.8582678 0 1 1 248.0315,476.57477 8.8582678,8.8582678 0 1 1 265.74804,476.57477 z"
+       transform="translate(345.47243,354.33072)"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path4900"
+       sodipodi:cx="256.88977"
+       sodipodi:cy="476.57477"
+       sodipodi:rx="8.8582678"
+       sodipodi:ry="8.8582678"
+       d="M 265.74804,476.57477 A 8.8582678,8.8582678 0 1 1 248.0315,476.57477 8.8582678,8.8582678 0 1 1 265.74804,476.57477 z"
+       transform="translate(274.60629,354.33072)"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 566.92913,768.89762 540.35433,830.90549"
+       id="path4902"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 620.07874,830.90549 620.07874,804.33069"
+       id="path4904"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5, 10;stroke-dashoffset:0"
+       d="M 620.07874,804.33069 551.74353,804.33069"
+       id="path4906"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 531.49606,830.90549 487.20472,830.90549"
+       id="path4912"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <text
+       sodipodi:linespacing="80.000001%"
+       id="text4916"
+       y="862.7428"
+       x="566.66058"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679"><tspan
+         style="font-size:20px;line-height:80.00000119%;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93"
+         y="862.7428"
+         x="566.66058"
+         sodipodi:role="line"
+         id="tspan4925">Battery</tspan><tspan
+         style="font-size:20px;line-height:80.00000119%;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93"
+         y="878.7428"
+         x="566.66058"
+         sodipodi:role="line"
+         id="tspan4929">charger</tspan></text>
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4920"
+       d="M 531.49606,848.62202 602.3622,848.62202 602.3622,884.0551 531.49606,884.0551 z"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4937"
+       d="M 620.07874,830.90549 620.07874,866.33856 602.3622,866.33856"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       transform="matrix(0.57236876,0,0,0.57236876,473.04306,558.12898)"
+       d="M 265.74804,476.57477 A 8.8582678,8.8582678 0 1 1 248.0315,476.57477 8.8582678,8.8582678 0 1 1 265.74804,476.57477 z"
+       sodipodi:ry="8.8582678"
+       sodipodi:rx="8.8582678"
+       sodipodi:cy="476.57477"
+       sodipodi:cx="256.88977"
+       id="path4939"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 504.92126,830.90549 504.92126,866.33856 531.49606,866.33856"
+       id="path4941"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path4943"
+       sodipodi:cx="256.88977"
+       sodipodi:cy="476.57477"
+       sodipodi:rx="8.8582678"
+       sodipodi:ry="8.8582678"
+       d="M 265.74804,476.57477 A 8.8582678,8.8582678 0 1 1 248.0315,476.57477 8.8582678,8.8582678 0 1 1 265.74804,476.57477 z"
+       transform="matrix(0.57236876,0,0,0.57236876,357.88558,558.12898)"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="567.13422"
+       y="732.31512"
+       id="text4960"
+       sodipodi:linespacing="80.000001%"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679"><tspan
+         id="tspan4964"
+         sodipodi:role="line"
+         x="567.13422"
+         y="732.31512"
+         style="font-size:20px;line-height:80.00000119%;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93">Switching</tspan><tspan
+         sodipodi:role="line"
+         x="567.13422"
+         y="748.31512"
+         style="font-size:20px;line-height:80.00000119%;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93"
+         id="tspan4974">converter</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 522.63779,715.74801 611.22047,715.74801 611.22047,751.18109 522.63779,751.18109 z"
+       id="path4966"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4982"
+       d="M 566.92913,768.89762 566.92913,751.18108"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 522.63779,423.42518 522.63779,485.43306 531.49606,494.29132 575.7874,494.29132 575.7874,423.42518 z"
+       id="path4988"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <text
+       sodipodi:linespacing="80.000001%"
+       id="text4996"
+       y="449.79672"
+       x="548.90985"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679"><tspan
+         id="tspan5000"
+         style="font-size:20px;line-height:80.00000119%;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93"
+         y="449.79672"
+         x="548.90985"
+         sodipodi:role="line">micro</tspan><tspan
+         style="font-size:20px;line-height:80.00000119%;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93"
+         y="465.79672"
+         x="548.90985"
+         sodipodi:role="line"
+         id="tspan5012">SD</tspan><tspan
+         style="font-size:20px;line-height:80.00000119%;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93"
+         y="481.79672"
+         x="548.90985"
+         sodipodi:role="line"
+         id="tspan5010">card</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="M 633.36614,813.18895 646.65354,822.04722 659.94094,813.18895"
+       id="path5021"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="M 491.63386,574.01573 478.34646,600.59053 491.63386,627.16533"
+       id="path5023"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <g
+       id="g5025"
+       transform="translate(-97.440942,-177.16535)"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 637.79528,700.98423 637.79528,677.36218"
+         id="path5027"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 655.51181,700.98423 655.51181,677.36219"
+         id="path5029"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="M 633.36614,680.31494 646.65354,671.45667 659.94094,680.31494"
+         id="path5031"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="M 535.9252,520.86612 549.2126,529.72439 562.5,520.86612"
+       id="path5035"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="701.61243"
+       y="873.0036"
+       id="text5039"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679"><tspan
+         sodipodi:role="line"
+         x="701.61243"
+         y="873.0036"
+         style="font-size:20px;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93"
+         id="tspan5041">USB</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5043"
+       d="M 684.30118,875.19683 684.30118,857.48029 719.73425,857.48029 719.73425,875.19683 z"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 690.94489,857.48029 690.94489,839.76376"
+       id="path5048"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="M 699.80315,853.05116 708.66142,857.48029 717.51969,853.05116"
+       id="path5050"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="M 699.80315,844.19289 708.66142,839.76376 717.51969,844.19289"
+       id="path5052"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 704.23229,855.08716 704.23229,841.97832"
+       id="path5054"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 713.09056,855.26572 713.09056,841.97833"
+       id="path5056"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5060"
+       d="M 717.51969,529.72439 783.95669,529.72439 783.95669,671.45667 717.51969,671.45667 z"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="751.01654"
+       y="597.30243"
+       id="text5075"
+       sodipodi:linespacing="80.000001%"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679"><tspan
+         id="tspan5081"
+         sodipodi:role="line"
+         x="751.01654"
+         y="597.30243"
+         style="font-size:20px;line-height:80.00000119%;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93">e-ink</tspan><tspan
+         sodipodi:role="line"
+         x="751.01654"
+         y="613.30243"
+         style="font-size:20px;line-height:80.00000119%;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93"
+         id="tspan5092">display</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 669.68504,587.30313 712.20473,587.30313"
+       id="path5102"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 669.88707,613.87793 712.20473,613.87793"
+       id="path5104"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="M 708.66142,578.44486 717.51969,600.59053 708.66142,622.7362"
+       id="path5106"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="M 673.22835,578.44486 664.37008,600.59053 673.22835,622.7362"
+       id="path5108"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       id="path5116"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 783.95669,401.2795 682.08661,401.2795 682.08661,503.14958 783.95669,503.14958 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <text
+       sodipodi:linespacing="80.000001%"
+       id="text5125"
+       y="451.06512"
+       x="733.49042"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679"><tspan
+         id="tspan5129"
+         style="font-size:20px;line-height:80.00000119%;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93"
+         y="451.06512"
+         x="733.49042"
+         sodipodi:role="line">switching</tspan><tspan
+         style="font-size:20px;line-height:80.00000119%;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93"
+         y="467.06512"
+         x="733.49042"
+         sodipodi:role="line"
+         id="tspan5137">converter</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 750.73819,529.72439 750.73819,503.14958"
+       id="path5145"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5147"
+       d="M 566.92913,715.74801 566.92913,689.1732"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path5149"
+       d="M 558.07087,698.03147 566.92913,689.1732 575.7874,698.03147"
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="554.85626"
+       y="708.74481"
+       id="text5151"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679"><tspan
+         sodipodi:role="line"
+         x="554.85626"
+         y="708.74481"
+         style="font-size:20px;text-align:end;text-anchor:end;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93"
+         id="tspan5153">3V3</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 733.02165,401.27951 733.02165,374.7047"
+       id="path5155"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="M 724.16339,383.56297 733.02165,374.7047 741.87992,383.56297"
+       id="path5157"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5159"
+       y="394.27631"
+       x="720.94879"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679"><tspan
+         id="tspan5161"
+         style="font-size:20px;text-align:end;text-anchor:end;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93"
+         y="394.27631"
+         x="720.94879"
+         sodipodi:role="line">3V3</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5195"
+       y="328.41336"
+       x="504.92126"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#802828;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       xml:space="preserve"
+       inkscape:export-filename="/Users/arthuradmiraal/Documents/Squidpad/Sysdiagram.png"
+       inkscape:export-xdpi="149.3679"
+       inkscape:export-ydpi="149.3679"><tspan
+         style="font-size:20px;text-align:start;text-anchor:start;fill:#802828;fill-opacity:1;font-family:Bauhaus93;-inkscape-font-specification:Bauhaus93"
+         id="tspan5197"
+         y="328.41336"
+         x="504.92126"
+         sodipodi:role="line">Other electronics - Log 5</tspan></text>
+  </g>
+</svg>
